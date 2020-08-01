@@ -1,6 +1,6 @@
 # What is it exactly?
 An annoying discord bot application that spams no you in chat, it also does tricks.
-The default command prefix is "~" but you can change the it on the config.json file to your liking.
+The default command prefix is "~" but you can change it on the config.json file to your liking.
 
 ## Commands
 **~help** - lists commands.
