@@ -12,7 +12,7 @@ The default command prefix is "~" but you can change the it on the config.json f
 **~say [text]** - the bot will say whatever you write in [text] and will delete the message in which you called the say command to hide your identity.
 
 ## Notes
-- The bot will not save the state of the togglable modes if you turn it off. Meaning if you set the bot to niceguy mode it won't stay niceguy mode when you restart it.
+- The bot will not save the state of the togglable modes if you turn it off. Meaning if you set the bot to niceguy mode it won't stay in niceguy mode when you restart it.
 
 
 
