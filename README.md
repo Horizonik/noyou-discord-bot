@@ -10,7 +10,7 @@ All commands are presented with the default prefix, switch the "~" to your own p
 
 **~niceguy** - Instead of replying no u to everything the bot will only reply to whomever says specifically writes "no u". Toggle this mode on and off by just using the command again.
 
-**~say [text]** - the bot will say whatever you write in [text] and will delete the message in which you called the say command to hide your identity.
+**~say [text]** - the bot will post a message with whatever you write in [text] and will delete the message in which you called the say command to hide your identity.
 
 ## Notes
 - The bot will not save the state of the togglable modes if you turn it off. Meaning if you set the bot to niceguy mode it won't stay in niceguy mode when you restart it.
