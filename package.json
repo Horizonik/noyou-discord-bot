@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "noyoubot",
+  "description": "i said no you!",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
